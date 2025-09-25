@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<!-- Anton Manulik 2K/g1, 2024r. --> 
+<title>Zadania 1-11</title>
+</head>
+<body>
+<!-- Zadanie 1 --> 
+	<h1> -----------Zadanie 1-----------</h1><br>
+    <p align="right"><font color="green" size="1" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="2" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="3" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="4" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="5" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="6" face="Arial">Anton</font></p><br>
+    <p align="right"><font color="green" size="7" face="Arial">Anton</font></p><br>
+	<h1> Manulik </h1><br>
+	<h2> Manulik </h2><br>
+	<h3> Manulik </h3><br>
+	<h4> Manulik </h4><br>
+	<h5> Manulik </h5><br>
+	<h6> Manulik </h6><br>
+	<p align="right"><font color="green" size="1" face="Arial">:) - uśmiech</font></p><br>
+    <p align="right"><font color="red" size="2" face="Courier New">P - wytknięty język</font></p><br>
+    <p align="right"><font color="blue" size="3" face="Times New Roman">;) - mrugnięcie</font></p><br>
+    <p align="right"><font color="purple" size="4" face="Verdana">:( - smutek</font></p><br>
+    <p align="right"><font color="orange" size="5" face="Tahoma">:'( - płacz</font></p><br>
+    <p align="right"><font color="pink" size="6" face="Georgia">:O - zdziwienie</font></p><br>
+
+<!-- Zadanie 2 --> 
+	<h1> -----------Zadanie 2-----------</h1><br>
+	<p align="right"><font color="red" size="6" face="Arial"><u>80-1107 Gdańsk, Ulica Kwiatowa 15/4</u></font></p><br>
+	<p align="left"><font color="green" size="7" face="Courier New"><i>Ulubiony aktor: Michael C. Hall</i></font></p><br>
+	<p align="center"><font color="blue" size="5" face="Times New Roman"><strike>Ulubiony zespół muzyczny: Slayer</strike></font></p><br>
+    <p align="right"><font color="black" size="4" face="Verdana"><b>Data urodzenia: 4 maja 2008 roku</b></font></p><br>
+    <p align="left"><font color="purple" size="6" face="Helvetica">H<sub>2</sub>S<sub>4</sub></font></p><br>
+	<p align="left"><font color="purple" size="6" face="Helvetica">x*x*x=x<sup>3</sup></font></p><br>
+
+<!-- Zadanie 3 --> 
+	<h1> -----------Zadanie 3-----------</h1><br>
+	<hr SIZE=4 WIDTH=70% ALIGN=RIGHT COLOR=red>
+    <h1 align="right">Dowcipy o kotach</h1>
+    <FIELDSET style="background-color: lightgreen;">
+	    <LEGEND>Młody ojciec</LEGEND>
+        Pije mąż z kotem:<br>
+		- Ech - mówi mąż - moja stara wczoraj trojaczki urodziła.<br>
+		- Nie przeżywaj tak - mówi kot - Jakoś je rozdasz.<br>
+    </FIELDSET>
+    <hr SIZE=6 WIDTH=55% ALIGN=CENTER COLOR=YELLOW>
+    
+    <h2 align="center">Dowcipy o naukowcach</h2>
+    <FIELDSET style="background-color: lightgreen;">
+        <LEGEND>Fizyk w baru</LEGEND>
+        Fizyk zamówił sobie kubek lodu, ale zamiast tego dostał kubek z wodą. Powiedział tylko: "No cóż, nie mogłem tego przewidzieć".<br>    
+    </FIELDSET>
+    <hr SIZE=5 WIDTH=40% ALIGN=LEFT COLOR=PURPLE>
+    
+    <h3 align="left">Dowcipy o kobietach</h3>
+    <FIELDSET style="background-color: lightgreen;">
+        <LEGEND>Nie zapomnisz</LEGEND>
+        On: Nie zapomnisz?<br>
+		Ona: Nie zapomnę.<br>
+		On: Na pewno?!<br>
+		Ona: Tak.<br>
+		On: Ale na pewno nie zapomnisz?!<br>
+		Ona: A o czym?<br>
+    </FIELDSET>
+	 <hr SIZE=5 WIDTH=80% ALIGN=Center COLOR=BLUE>
+    
+    <br><br><br>
+	<p>nazwisko ucznia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imię ucznia</p>
+    <p>Manulik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anton</p>
+    <p>&#60;&#169;&#167;&#38;&#34;&#62;</p>
+</body>
